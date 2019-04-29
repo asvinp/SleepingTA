@@ -1,5 +1,5 @@
 # Sleeping-TA
-## Sleeping Teaching Assistant Problem
+## [CMPE 180-94] Sleeping Teaching Assistant Problem
 
 - [x] Simulated sleeping TA scenarios using POSIX threads, semaphores and a FIFO queue using C programming
 - [x] Implemented mutex-lock and FIFO queue to avoid deadlock and starvation scenarios
